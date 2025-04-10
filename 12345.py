@@ -1,1 +1,3 @@
-print (f'hellow')
+print ('hellow')
+
+print('пока')
